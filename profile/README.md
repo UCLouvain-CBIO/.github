@@ -4,4 +4,4 @@ on GitHub. Physically, we are located in the
 [de Duve Institute](https://www.deduveinstitute.be/), at the [UCLouvain](https://uclouvain.be/) 
 in Brussels. 
 
-![CBIO lab photo](https://lgatto.github.io/images/CBIO-20240703.jpg)
+![CBIO lab photo](https://lgatto.codeberg.page/images/CBIO-20240703.jpg)
